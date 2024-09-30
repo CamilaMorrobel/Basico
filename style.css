@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: rgb(255, 255, 255);
+}
+
+.contrainer{
+    background: #202020;
+    display: flex;
+   
+    
+}
+
+
+.uno {
+    background: #eb469e;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.dos{
+    background: #823c61;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
